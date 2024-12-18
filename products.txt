@@ -1,0 +1,35 @@
+1,Egg,sandwich with egg mayo filling,50.00,36,18
+2,Tuna Mayo,Japanese rice ball with tuna mayo filling,25.00,27,15
+3,Corn Dog,Breaded hot dog on stick,35.00,21,12
+4,Carbonara,Microwaveable pasta with creamy sauce,65.00,20,8
+5,Taro Pie,Fresh baked taro filled pie,25.00,25,12
+6,Fresh Milk,Pasteurized whole milk small carton,20.00,40,20
+7,Chickenroll,Fresh chicken patty burger,45.00,25,10
+8,Cola 500ml,Carbonated cola drink bottle,20.00,50,25
+9,MineralWater,Pure drinking water bottle,10.00,90,40
+10,Chicken Mayo,Fresh bread roll with chicken mayo,30.00,25,12
+11,BBQ Pork Bun,Steamed bun with BBQ pork filling,25.00,30,15
+12,Egg Sandwich,Fresh sandwich with egg mayo filling,30.00,25,12
+13,Sausage,Butter croissant with hot dog,35.00,20,10
+14,Karaage 3pcs,Japanese fried chicken pieces,45.00,25,10
+15,Orange Juice,100% orange juice bottle,40.00,30,15
+16,Yogurt Drink,Strawberry flavored yogurt drink,15.00,45,20
+17,Cup Noodles,Instant noodles with pork flavor,20.00,50,25
+18,Gummy Bears,Fruit flavored gummy candy,35.00,40,20
+19,Banana Cake,Individually wrapped banana cake,15.00,40,20
+20,ChocoDonut,Fresh chocolate glazed donut,20.00,25,15
+21,Cheese Pie,Fresh baked cheese filled pie,25.00,25,12
+22,Hot Dog Bun,Fresh hot dog in soft bun,25.00,30,15
+23,Chicken Wing,Ready-to-eat fried chicken wings,35.00,25,10
+24,JapanCurry,Ready-to-eat curry with rice,60.00,20,8
+25,Soy Milk,Fresh soy milk bottle,25.00,40,20
+26,Mixed Nuts,Assorted roasted nuts pack,35.00,35,15
+27,ChocolateBar,Milk chocolate bar,25.00,45,20
+28,Ice Coffee,Ready-to-drink sweetened coffee,25.00,40,20
+29,Energy Drink,Caffeinated energy drink can,30.00,45,20
+30,Apple Juice,100% apple juice bottle,40.00,42,15
+31,gusgus,coder,50.00,20,10
+32,pat,badboy,60.00,60,30
+33,punpun,smart,60.00,30,10
+34,Salad,good thing,10.00,20,10
+35,Salad,good thing,10.00,20,10

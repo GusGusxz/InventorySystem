@@ -1,0 +1,17 @@
+name,description,price,stock,minimum_threshold
+Coffee Mug,Ceramic mug with logo,250.00,50,10
+Water Bottle,Stainless steel bottle 500ml,450.00,30,5
+Notebook,Hardcover spiral notebook A5,120.00,100,20
+Pen Set,Pack of 3 gel pens,80.00,200,50
+Laptop Bag,15-inch waterproof laptop bag,1200.00,25,5
+Mouse Pad,Gaming mouse pad large size,350.00,45,10
+USB Cable,Type-C fast charging cable 1m,180.00,150,30
+Headphones,Wireless bluetooth headphones,1500.00,20,5
+Power Bank,10000mAh portable charger,890.00,40,8
+Phone Case,Protective case for iPhone,450.00,60,15
+LED Lamp,Adjustable desk lamp,750.00,35,7
+Keyboard,Mechanical gaming keyboard,2200.00,15,3
+Webcam,1080p HD webcam with mic,1100.00,25,5
+Speaker,Portable bluetooth speaker,1300.00,30,6
+Flash Drive,64GB USB 3.0 drive,590.00,80,20
+

@@ -1,0 +1,14 @@
+Date,Product_ID,Product_Name,Quantity,Price,Total
+2024-12-15,1001,Arabica Coffee,10,120.00,1200.00
+2024-12-15,1002,Matcha Green Tea,15,85.00,1275.00
+2024-12-15,1003,Thai Milk Tea,20,65.00,1300.00
+2024-12-15,1001,Arabica Coffee,8,120.00,960.00
+2024-12-15,1004,Black Tea,12,75.00,900.00
+2024-12-15,1003,Thai Milk Tea,18,65.00,1170.00
+2024-12-15,1002,Matcha Green Tea,14,85.00,1190.00
+2024-12-15,1005,Apple Tea,10,70.00,700.00
+2024-12-15,1001,Arabica Coffee,12,120.00,1440.00
+2024-12-15,1003,Thai Milk Tea,22,65.00,1430.00
+
+Total Items,141
+Total Revenue,11565.00
